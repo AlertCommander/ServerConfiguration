@@ -1,6 +1,6 @@
 default:
     recipients:
-        - +4365035xxxxx
+        - +43xxxxxxxxxx
 
     tokens:
         - abc123
