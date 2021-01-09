@@ -1,13 +1,14 @@
-recipients:
-    - +4365035xxxxx
+default:
+    recipients:
+        - +4365035xxxxx
 
-tokens:
-    - abc123
+    tokens:
+        - abc123
 
-server:
-    host: 0.0.0.0
-    port: 3000
+    server:
+        host: 0.0.0.0
+        port: 3000
 
-serial:
-    device: /dev/ttyUSB0
-    baud: 9600
+    serial:
+        device: /dev/ttyUSB0
+        baud: 9600
